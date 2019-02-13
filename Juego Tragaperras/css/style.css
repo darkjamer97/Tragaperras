@@ -1,0 +1,44 @@
+* {
+    border-radius: 10px;
+}
+
+body {
+    background-image: url(../img/fondo.jpg);
+}
+
+table {
+    background-color: gray;
+    text-align: center;
+    margin: 0 auto;
+    padding: 1%;
+    border: 4px solid;
+}
+
+table td {
+    border: 4px solid grey;
+    background-color: #ffbf00;
+}
+
+table td img {
+    border-radius: 10px;
+    margin: 10px;
+}
+
+form {
+    margin: 0 auto;
+    text-align: center;
+}
+
+form h1 {
+    color: aliceblue;
+}
+
+form button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
